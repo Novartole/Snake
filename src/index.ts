@@ -1,5 +1,3 @@
-const foo = (): void => {
-  console.log("Hello world");
-}
+import App from "./app";
 
-foo();
+App.initialize();

@@ -5,7 +5,9 @@
     "build:dev": "webpack --config webpack.dev.js"
   },
   "dependencies": {
-    "@babylonjs/core": "^4.2.0"
+    "@babylonjs/core": "^4.2.0",
+    "@babylonjs/gui": "^4.2.0",
+    "@babylonjs/loaders": "^4.2.0"
   },
   "devDependencies": {
     "@babylonjs/inspector": "^4.2.0",
